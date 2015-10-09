@@ -1,5 +1,3 @@
-+ [English](http://krondo.com/blog/?page_id=1327)
-+ [中文](https://github.com/likebeta/twisted-intro-cn/blob/gh-pages/zh)
-+ [Japanese](http://skitazaki.appspot.com/translation/twisted-intro-ja/index.html)
-+ [Estonian](http://timgluz.wordpress.com/2010/07/14/sissejuhatus-asunkroonsesse-maailma/)
-+ [Russian](http://ninaevseenko.github.com/async_twisted_ru/)
+# Introduction
+
+Hello, everyone! My name is Jennie. It's my pleasure to stand here again. I'm so excited because I'm closer to my dream. Just like most 12 years old children, we have a dream. Someone wants to become a teacher, someone wants to be a doctor. I want to be a actress. To realize the dream I wanna win the game and play a show on TV. Thank you.
